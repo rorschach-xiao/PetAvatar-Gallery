@@ -123,6 +123,16 @@ body {
   font-size: 0;
 }
 
+.caption{
+  height: 2%;
+  font-size: small;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.caption > code {
+  color: #555;
+}
+
 .results-carousel video {
   margin: 0;
 }
